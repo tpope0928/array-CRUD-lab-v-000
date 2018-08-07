@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   [1, 2, 3, 4]
   add_element_to_end_of_array << 5
+  puts 
 end
 
 def add_element_to_start_of_array(array, element)
